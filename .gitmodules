@@ -1,0 +1,6 @@
+[submodule "dividebatur"]
+	path = dividebatur
+	url = https://github.com/zperumal/dividebatur
+[submodule "resources/dividebatur"]
+	path = resources/dividebatur
+	url = https://github.com/zperumal/dividebatur
